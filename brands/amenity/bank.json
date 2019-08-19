@@ -94,6 +94,16 @@
       "name": "Access Bank"
     }
   },
+  "amenity/bank|Activo": {
+    "countryCodes": ["ve"],
+    "tags": {
+      "amenity": "bank",
+      "brand": "Activo",
+      "brand:wikidata": "Q30911206",
+      "brand:wikipedia": "es:Banco Activo",
+      "name": "Activo"
+    }
+  },
   "amenity/bank|Addiko Bank": {
     "countryCodes": [
       "ba",
@@ -371,6 +381,16 @@
       "name": "BAC Credomatic"
     }
   },
+  "amenity/bank|Banplus": {
+    "countryCodes": ["ve"],
+    "tags": {
+      "amenity": "bank",
+      "brand": "Banplus",
+      "brand:wikidata": "Q21007004",
+      "brand:wikipedia": "es:Banplus",
+      "name": "Banplus"
+    }
+  },
   "amenity/bank|BAWAG PSK": {
     "countryCodes": ["at"],
     "tags": {
@@ -456,6 +476,17 @@
       "name:en": "BBVA France",
       "name:fr": "BBVA Francés"
     }
+  },
+  "amenity/bank|BBVA Provincial": {
+    "countryCodes": ["ve"],
+    "matchNames": ["provincial"],
+    "tags": {
+      "amenity": "bank",
+      "brand": "BBVA Provincial",
+      "brand:wikidata": "Q4835087",
+      "brand:wikipedia": "es:BBVA Provincial",
+      "name": "BBVA Provincial"
+    }    
   },
   "amenity/bank|BCA": {
     "matchNames": ["bank bca"],
@@ -1033,11 +1064,12 @@
   },
   "amenity/bank|Bancaribe": {
     "countryCodes": ["ve"],
+    "matchNames": ["del caribe"],
     "tags": {
       "amenity": "bank",
       "brand": "Bancaribe",
       "brand:wikidata": "Q5717827",
-      "brand:wikipedia": "en:Bancaribe",
+      "brand:wikipedia": "es:Bancaribe",
       "name": "Bancaribe"
     }
   },
@@ -1647,11 +1679,12 @@
     }
   },
   "amenity/bank|Banesco": {
+    "countryCodes": ["ve"],
     "tags": {
       "amenity": "bank",
       "brand": "Banesco",
       "brand:wikidata": "Q4854841",
-      "brand:wikipedia": "en:Banesco",
+      "brand:wikipedia": "es:Banesco",
       "name": "Banesco"
     }
   },
@@ -2086,6 +2119,16 @@
       "brand:wikidata": "Q27493463",
       "brand:wikipedia": "en:Budapest Bank",
       "name": "Budapest Bank"
+    }
+  },
+  "amenity/bank|Caroní": {
+    "countryCodes": ["ve"],
+    "tags": {
+      "amenity": "bank",
+      "brand": "Caroní",
+      "brand:wikidata": "Q5717875",
+      "brand:wikipedia": "es:Banco Caroní",
+      "name": "Caroní"
     }
   },
   "amenity/bank|CBAO": {
@@ -2783,6 +2826,16 @@
       "name": "Davivienda"
     }
   },
+  "amenity/bank|DELSUR": {
+    "countryCodes": ["ve"],
+    "tags": {
+      "amenity": "bank",
+      "brand": "DELSUR",
+      "brand:wikidata": "Q5801609",
+      "brand:wikipedia": "es:DELSUR Banco Universal",
+      "name": "DELSUR"
+    }
+  },
   "amenity/bank|Denizbank": {
     "tags": {
       "amenity": "bank",
@@ -2987,6 +3040,16 @@
       "brand:wikidata": "Q5411684",
       "brand:wikipedia": "sr:Eurobanka",
       "name": "Eurobank"
+    }
+  },
+  "amenity/bank|Exterior": {
+    "countryCodes": ["ve"],
+    "tags": {
+      "amenity": "bank",
+      "brand": "Exterior",
+      "brand:wikidata": "Q5681607",
+      "brand:wikipedia": "es:Banco Exterior (Venezuela)",
+      "name": "Exterior"
     }
   },
   "amenity/bank|FNB~(South Africa)": {
@@ -3218,6 +3281,17 @@
       "brand:wikidata": "Q5506152",
       "brand:wikipedia": "en:Frost Bank",
       "name": "Frost Bank"
+    }
+  },
+  "amenity/bank|Fondo Común": {
+    "countryCodes": ["ve"],
+    "matchNames": ["bfc"],
+    "tags": {
+      "amenity": "bank",
+      "brand": "BFC",
+      "brand:wikidata": "Q5465007",
+      "brand:wikipedia": "es:Banco Fondo Común",
+      "name": "Fondo Común"
     }
   },
   "amenity/bank|Fulton Bank": {
@@ -3885,11 +3959,12 @@
     }
   },
   "amenity/bank|Mercantil": {
+    "countryCodes": ["ve"],
     "tags": {
       "amenity": "bank",
       "brand": "Mercantil",
-      "brand:wikidata": "Q6818004",
-      "brand:wikipedia": "en:Mercantil Servicios Financieros",
+      "brand:wikidata": "Q4854101",
+      "brand:wikipedia": "es:Mercantil (banco)",
       "name": "Mercantil"
     }
   },
@@ -4021,6 +4096,17 @@
       "name": "NAB"
     }
   },
+  "amenity/bank|Nacional de Crédito": {
+    "countryCodes": ["ve"],
+    "matchNames": ["bnc"],
+    "tags": {
+      "amenity": "bank",
+      "brand": "BNC",
+      "brand:wikidata": "Q4854103",
+      "brand:wikipedia": "es:Banco Nacional de Crédito",
+      "name": "Nacional de Crédito"
+    }
+  },
   "amenity/bank|NSB": {
     "countryCodes": ["lk"],
     "matchNames": ["national savings bank"],
@@ -4138,7 +4224,7 @@
       "amenity": "bank",
       "brand": "Occidental de Descuento",
       "brand:wikidata": "Q4854108",
-      "brand:wikipedia": "en:Banco Occidental de Descuento",
+      "brand:wikipedia": "es:Banco Occidental de Descuento",
       "name": "Occidental de Descuento"
     }
   },
@@ -4393,17 +4479,6 @@
       "brand:wikidata": "Q13538661",
       "brand:wikipedia": "sk:Prima banka Slovensko",
       "name": "Prima banka"
-    }
-  },
-  "amenity/bank|Provincial": {
-    "countryCodes": ["ve"],
-    "matchNames": ["bbva provincial"],
-    "tags": {
-      "amenity": "bank",
-      "brand": "Provincial",
-      "brand:wikidata": "Q4835087",
-      "brand:wikipedia": "es:BBVA Provincial",
-      "name": "Provincial"
     }
   },
   "amenity/bank|Public Bank~(Malaysia)": {
@@ -5352,11 +5427,14 @@
       "name": "Veneto Banca"
     }
   },
-  "amenity/bank|Venezuela": {
+  "amenity/bank|Venezolano de Crédito": {
+    "countryCodes": ["ve"],
     "tags": {
       "amenity": "bank",
-      "brand": "Venezuela",
-      "name": "Venezuela"
+      "brand": "Venezolano de Crédito",
+      "brand:wikidata": "Q4854115",
+      "brand:wikipedia": "es:Venezolano de Crédito",
+      "name": "Venezolano de Crédito"
     }
   },
   "amenity/bank|VietinBank": {
